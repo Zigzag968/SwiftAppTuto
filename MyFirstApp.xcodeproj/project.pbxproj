@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		FC1096CA1BC4607C00798F08 /* VideosTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC1096C91BC4607C00798F08 /* VideosTableViewController.swift */; settings = {ASSET_TAGS = (); }; };
 		FC1096CC1BC461E300798F08 /* datas.json in Resources */ = {isa = PBXBuildFile; fileRef = FC1096CB1BC461E300798F08 /* datas.json */; settings = {ASSET_TAGS = (); }; };
+		FC1096CE1BC4710500798F08 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC1096CD1BC4710500798F08 /* WebViewController.swift */; settings = {ASSET_TAGS = (); }; };
 		FC21C8AE1BC45A6600A12A97 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC21C8AD1BC45A6600A12A97 /* AppDelegate.swift */; };
 		FC21C8B01BC45A6600A12A97 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC21C8AF1BC45A6600A12A97 /* ViewController.swift */; };
 		FC21C8B31BC45A6600A12A97 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC21C8B11BC45A6600A12A97 /* Main.storyboard */; };
@@ -19,6 +20,7 @@
 /* Begin PBXFileReference section */
 		FC1096C91BC4607C00798F08 /* VideosTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideosTableViewController.swift; sourceTree = "<group>"; };
 		FC1096CB1BC461E300798F08 /* datas.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = datas.json; sourceTree = "<group>"; };
+		FC1096CD1BC4710500798F08 /* WebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WebViewController.swift; path = ../WebViewController.swift; sourceTree = "<group>"; };
 		FC21C8AA1BC45A6600A12A97 /* MyFirstApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyFirstApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC21C8AD1BC45A6600A12A97 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FC21C8AF1BC45A6600A12A97 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 			children = (
 				FC21C8AD1BC45A6600A12A97 /* AppDelegate.swift */,
 				FC21C8AF1BC45A6600A12A97 /* ViewController.swift */,
+				FC1096CD1BC4710500798F08 /* WebViewController.swift */,
 				FC21C8B11BC45A6600A12A97 /* Main.storyboard */,
 				FC1096C91BC4607C00798F08 /* VideosTableViewController.swift */,
 				FC1096CB1BC461E300798F08 /* datas.json */,
@@ -144,6 +147,7 @@
 				FC1096CA1BC4607C00798F08 /* VideosTableViewController.swift in Sources */,
 				FC21C8B01BC45A6600A12A97 /* ViewController.swift in Sources */,
 				FC21C8AE1BC45A6600A12A97 /* AppDelegate.swift in Sources */,
+				FC1096CE1BC4710500798F08 /* WebViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
